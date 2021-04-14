@@ -7,7 +7,7 @@ fully configurable (resize filter, subtitles burning and others ffmpeg commands)
 This mod version is the only dlna server compatible with my Samsung F8000 TV for on the fly transcoded movies, with subtitles, pause and seek.
   
 
-binaries at:https://mega.nz/file/gMNgFAyR#z9PyShxhbd6LKl_CXAhyPNos51T53syWuZg0l-KcAuc
+binaries at:https://mega.nz/file/dEEVjCwJ#1sEw2_C7B_L5FOYqHy6nAaxitJ0cfS6hiR4UMx2JvAA
 (read included README.txt for instructions).
 
 
