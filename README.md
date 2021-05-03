@@ -8,7 +8,8 @@ This mod version is the only dlna server compatible with my Samsung F8000 TV for
   
 
 binaries at:https://mega.nz/file/dEEVjCwJ#1sEw2_C7B_L5FOYqHy6nAaxitJ0cfS6hiR4UMx2JvAA
-(read included README.txt for instructions).
+(read included README.txt for instructions).Download ffmpeg.exe from https://www.gyan.dev/ffmpeg/builds/ or  https://github.com/BtbN/FFmpeg-Builds/releases (full build).
+
 
 
 Changes:
