@@ -5,12 +5,9 @@ transcoding is stopped (crashes, TV power off or other situations), and a transc
 fully configurable (resize filter, subtitles burning and others ffmpeg commands).
 
 This mod version is the only dlna server compatible with my Samsung F8000 TV for on the fly transcoded movies, with subtitles, pause and seek.
-  
-
+ 
 binaries at:https://mega.nz/file/dEEVjCwJ#1sEw2_C7B_L5FOYqHy6nAaxitJ0cfS6hiR4UMx2JvAA
 (read included README.txt for instructions).Download ffmpeg.exe from https://www.gyan.dev/ffmpeg/builds/ or  https://github.com/BtbN/FFmpeg-Builds/releases (full build).
-
-
 
 Changes:
 -added transcoding with seek to simulate fast forward and rewind (ff/rw) when transcoding.
@@ -23,11 +20,13 @@ Changes:
 
 -only ffmpeg.exe is used for transcoding, encoding with hardware acceleration for AMD VCE, Intel QSV an Nvidia Nvenc is supported. 
 
--resize filter, solves incompatibility with somes devices not accepting vertical resolution not multiple of 24 (modulus 24)
+-resize filter, solves incompatibility with somes devices not accepting vertical resolution not multiple of 20 (modulus 20)
 like Samsung F8000 (movies with resolution of 1900x784 display "invalid file").
 
--a very simple windows gui to start/stop minidlna (minigui.exe).
--------------------
+-Transcode with embedded subtitles, audio track selection and Windows desktop streaming->check new minidlna.conf and dxgi directshow filters at
+https://github.com/xpto999us/Virtual-Cam3-DXGI-directshow-capture-filter
+
+a very simple windows gui to start/stop minidlna (minigui.exe).
 
 -this version include patches:
 transcode patch:
