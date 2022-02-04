@@ -6,8 +6,7 @@ fully configurable (resize filter, subtitles burning and others ffmpeg commands)
 
 This mod version is the only dlna server compatible with my Samsung F8000 TV for on the fly transcoded movies, with subtitles, pause and seek.
  
-binaries:Download Minidlna GUI.exe from above.
-others (GUI not included):https://mega.nz/file/dEEVjCwJ#1sEw2_C7B_L5FOYqHy6nAaxitJ0cfS6hiR4UMx2JvAA
+binaries:https://mega.nz/file/dA8hQQLR#TOHh-1uXhqi-kinOOqt-gbDO6ps5up8Ta5W4tfu82tM
 (read included README.txt for instructions).
 Download ffmpeg.exe from https://www.gyan.dev/ffmpeg/builds/ or  https://github.com/BtbN/FFmpeg-Builds/releases (full build).
 
