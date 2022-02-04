@@ -27,7 +27,7 @@ like Samsung F8000 (movies with resolution of 1900x784 display "invalid file").
 -Transcode with embedded subtitles, audio track selection and Windows desktop streaming->check new minidlna.conf and dxgi directshow filters at
 https://github.com/xpto999us/Virtual-Cam3-DXGI-directshow-capture-filter
 
-a very simple windows gui to start/stop minidlna (minigui.exe).
+a windows gui to configure and start/stop minidlna (minidlna GUI.exe).
 
 -this version include patches:
 transcode patch:
