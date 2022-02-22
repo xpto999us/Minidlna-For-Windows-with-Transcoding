@@ -8,6 +8,7 @@ This mod version is the only dlna server compatible with my Samsung F8000 TV for
  
 binaries:https://mega.nz/file/dA8hQQLR#TOHh-1uXhqi-kinOOqt-gbDO6ps5up8Ta5W4tfu82tM
 (read included README.txt for instructions).
+Download Minidlna GUI version 1.1.exe above.
 Download ffmpeg.exe from https://www.gyan.dev/ffmpeg/builds/ or  https://github.com/BtbN/FFmpeg-Builds/releases (full build).
 For windows desktop stream download ffmpeg version 4.4, not version 5 (audio out of sync).
 
