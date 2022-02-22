@@ -12,6 +12,9 @@ Download Minidlna GUI version 1.1.exe above.
 Download ffmpeg.exe from https://www.gyan.dev/ffmpeg/builds/ or  https://github.com/BtbN/FFmpeg-Builds/releases (full build).
 For windows desktop stream download ffmpeg version 4.4, not version 5 (audio out of sync).
 
+Fork errors when running minidlna: check https://cygwin.com/faq/faq.html#faq.using.bloda for incompatible software (or run mindlna inside a VM with a Tiny Win10 - 5GB of hard disk space).
+
+
 Changes:
 -added transcoding with seek to simulate fast forward and rewind (ff/rw) when transcoding.
  A directory named Seek with icons "Play To" at a configurable interval in minutes is created
