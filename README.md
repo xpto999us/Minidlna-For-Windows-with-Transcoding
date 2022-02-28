@@ -11,6 +11,7 @@ binaries:https://mega.nz/file/dA8hQQLR#TOHh-1uXhqi-kinOOqt-gbDO6ps5up8Ta5W4tfu82
 Download Minidlna GUI version 1.1.exe above.
 Download ffmpeg.exe from https://www.gyan.dev/ffmpeg/builds/ or  https://github.com/BtbN/FFmpeg-Builds/releases (full build).
 For windows desktop stream download ffmpeg version 4.4, not version 5 (audio out of sync).
+Dlls missing: install Microsoft VC++ Redist Runtime (2015, x86). https://www.microsoft.com/en-gb/download/details.aspx?id=53840
 
 Fork errors when running minidlna: check https://cygwin.com/faq/faq.html#faq.using.bloda for incompatible software (or run mindlna inside a VM with a Tiny Win10 - 5GB of hard disk space).
 
