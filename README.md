@@ -15,8 +15,9 @@ Dlls missing: install Microsoft VC++ Redist Runtime (2015). https://www.microsof
 
 Fork errors when running minidlna: check https://cygwin.com/faq/faq.html#faq.using.bloda for incompatible software (or run mindlna inside a VM with a Tiny Win10 - 5GB of hard disk space).
 
-Msg "network error" (or other msg) at end of the movie:
-insert -af apad=whole_dur=999999 in ffmpeg line command (....-pix_fmt yuv420p  -c:a ac3 -b:a 448k -af apad=whole_dur=999999  -f mpegts pipe:1)
+Msg "network error" (or other msg) at end of the movie(TV disconnect):
+a)insert -af apad=whole_dur=999999 in ffmpeg line command (....-pix_fmt yuv420p  -c:a ac3 -b:a 448k -af apad=whole_dur=999999  -f mpegts pipe:1)
+b)start movie from Seek folder ("play to 00H00MIN",etc). Burn subtitles.
 
 Subtitles with same name of the video/movie.
 Subtitles name without special characters (no [], (), etc).
