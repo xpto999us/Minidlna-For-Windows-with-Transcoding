@@ -21,6 +21,10 @@ a)insert -af apad=whole_dur=999999 in ffmpeg line command (....-pix_fmt yuv420p 
 
 b)start movie from Seek folder ("play to 00H00MIN",etc). Burn subtitles.
 
+OR:
+A)add -t 86400 after DURATION:
+ ....-i $SOURCE   -t $DURATION -t 86400 -c:v libx264 -preset superfast....
+
 Subtitles with same name of the video/movie.
 Subtitles name without special characters (no [], (), etc).
 
