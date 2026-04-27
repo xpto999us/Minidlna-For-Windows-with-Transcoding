@@ -36,6 +36,7 @@ Changes:
 -added transcoding with seek to simulate fast forward and rewind (ff/rw) when transcoding.
  A directory named Seek with icons "Play To" at a configurable interval in minutes is created
  (Seek directory includes subfolders with movie name).
+ WARNING:SEEK FOLDER MUST BE AN EMPTY FOLDER. ALL CONTENT WILL BE DELETED.
 
 -enabled pause button in some devices like Samsung F8000 (fixed value for DLNA_ORG flags).
  
