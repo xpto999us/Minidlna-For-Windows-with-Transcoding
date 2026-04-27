@@ -29,7 +29,7 @@ A)add -t 86400 after DURATION:
 Subtitles with same name of the video/movie.
 Subtitles name without special characters (no [], (), etc).
 To check if subtitles is UTF-8 or UTF-16 and conversion (compatible with ffmpeg burned subtitles)
- run https://sourceforge.net/projects/minidlna-subtitles-converter/  (read readme.txt)
+ run minidlna-subtitles-converter  (read readme.txt)
 
 
 Changes:
